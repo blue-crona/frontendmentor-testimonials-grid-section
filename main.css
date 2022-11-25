@@ -3,10 +3,6 @@
 @import "./common.blocks/testimonial/testimonial.css";
 @import "./common.blocks/author/author.css";
 
-/* https://www.frontendmentor.io/solutions/testimonials-grid-section-cards-mLM3IY9T42 */
-/* https://www.frontendmentor.io/solutions/testimonials-grid-section-challenge-8iRhWNyJm1 */
-/* NEXT Project using React! https://www.frontendmentor.io/solutions/tip-calculator-made-with-react-sass-and-packed-with-vite-pBx9rETXnt */
-
 *, *::after, *::before {
     box-sizing: border-box;
     margin: 0;
