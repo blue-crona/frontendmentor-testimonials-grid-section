@@ -1,0 +1,33 @@
+.author {
+    display: flex;
+    align-items: center;
+}
+
+.author__verified {
+    opacity: 70%;
+}
+
+.author__image {
+    margin-right: 1em;
+    border-radius: 50%;
+    width: 40px;
+    transition: 0.2s ease;
+    border: .2em solid transparent;
+}
+
+.author__image:hover {
+    transform: scale(1.3);
+    cursor: pointer;
+}
+
+.author_theme_white {
+    color: var(--white);
+}
+
+.author_theme_light-moderate-violet {
+    border: .2em solid var(--light-moderate-violet);
+}
+
+.author_theme_moderate-violet {
+    border: .2em solid var(--moderate-violet);
+}
